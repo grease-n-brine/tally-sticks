@@ -6,6 +6,7 @@
       "description": "",
       "dept": "",
       "tag_id": [],
+      "project_id": null,
       "sprint": null,
       "parent_epic": null,
       "acceptance": [],

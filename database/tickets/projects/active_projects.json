@@ -1,0 +1,15 @@
+{
+	"projects": [
+		{
+			"id": null,
+			"project_key": "",
+			"name": "",
+			"description": "",
+			"project_type": "",
+			"tag_id": [],
+			"parent_project": null,
+			"current_status_id": null,
+			"assigned_user_id": null
+		}
+	]
+}
